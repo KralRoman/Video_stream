@@ -1,0 +1,3 @@
+/home/roman/git_workspace/Video_stream/CMakeFiles/rebuild_cache.dir
+/home/roman/git_workspace/Video_stream/CMakeFiles/Server.dir
+/home/roman/git_workspace/Video_stream/CMakeFiles/edit_cache.dir
